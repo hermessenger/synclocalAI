@@ -1,0 +1,5 @@
+{
+  "name": "AI Lip-Sync Studio",
+  "description": "A web application to create multi-language lip-synced videos using AI. Users can upload videos and audio/text, select voices and avatars, and clone voices. This is a demo application where actual AI processing is simulated.",
+  "requestFramePermissions": []
+}
